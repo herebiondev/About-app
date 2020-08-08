@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Leonardo da Vinci</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Leonardo da Vinci (English: /ˌliːəˈnɑːrdoʊ də ˈvɪntʃi, ˌliːoʊˈ-, ˌleɪoʊˈ-/;a 14/15 April 1452b – 2 May 1519),4 was an Italian polymath of the High
+        Renaissance who is widely considered one of the greatest painters of all time (despite less than 25 of his paintings having survived).c The Mona
+        Lisa is the most famous of Leonardo\'s works and the most famous portrait ever made.5 The Last Supper is the most reproduced religious painting of
+        all time6 and his Vitruvian Man drawing is also regarded as a cultural icon.7 He is also known for his his notebooks, in which he made drawings
+        and notes on science and invention; these involve a variety of subjects including anatomy, cartography, painting, and paleontology. Leonardos
+        collective works compose a contribution to later generations of artists rivalled only by that of his contemporary Michelangelo.
+
+        Properly named Leonardo di ser Piero da Vinci,d Leonardo was born out of wedlock to a notary, Piero da Vinci, and a peasant woman, Caterina, in
+        Vinci, in the region of Florence, Italy. Leonardo was educated in the studio of the renowned Italian painter Andrea del Verrocchio. Much of his
+        earlier working life was spent in the service of Ludovico il Moro in Milan, and he later worked in Rome, Bologna and Venice. He spent his last
+        three years in France, where he died in 1519.
+
+        Although he had no formal academic training,9 many historians and scholars regard Leonardo as the prime exemplar of the "Universal Genius" or
+        "Renaissance Man", an individual of "unquenchable curiosity" and "feverishly inventive imagination."6 He is widely considered one of the most
+        diversely talented individuals ever to have lived.10 According to art historian Helen Gardner, the scope and depth of his interests were
+        without precedent in recorded history, and "his mind and personality seem to us superhuman, while the man himself mysterious and remote."6
+        Scholars interpret his view of the world as being based in logic, though the empirical methods he used were unorthodox for his time.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
